@@ -1,0 +1,3 @@
+C:/Users/epici/Desktop/Ball in the Box 1/CMakeFiles/sfml_sample.dir
+C:/Users/epici/Desktop/Ball in the Box 1/CMakeFiles/ALL_BUILD.dir
+C:/Users/epici/Desktop/Ball in the Box 1/CMakeFiles/ZERO_CHECK.dir
